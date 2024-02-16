@@ -9,4 +9,3 @@ for (let i = 1; i <= 100; i++) {
     ? console.log('buzz')
     : console.log(i);
 }
-// test
